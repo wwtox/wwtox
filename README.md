@@ -1,9 +1,6 @@
-👋 Hi, I’m @wwtox
-
-Currently an engineering student in France.
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media0.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif?cid=ecf05e47ltopmchnexm4x73r35ydp9cswgws0j7owgpt1v13&rid=giphy.gif&ct=g" width="100"/>
 </div>
 
 
