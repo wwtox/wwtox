@@ -1,3 +1,8 @@
+" Hey there! This is my vim config. I use vim-plug as you can see right below. This config includes auto-completion, light/dark colorscheme auto switch
+and a bunch of other stuff. This is subject to change, but if you want to give it a try, go ahead! "
+
+
+
 " Show line numbers "
 set number
 set belloff=all
