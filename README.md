@@ -1,6 +1,6 @@
 ## Hey there! I'm @wwtox.
 
-I'm currently an Egineering Sciences student, based in France.
+I'm currently an Engineering Sciences student, based in France.
 I know basic programming and have yet to show my worth through the making of projects.
 I am honing my skills and I'm working on the full stack. Chances are that you're going to see some pretty neat stuff in the near future!
 
