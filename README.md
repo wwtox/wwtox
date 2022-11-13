@@ -1,12 +1,10 @@
 ## Hey there! I'm @wwtox.
 
-There's not much to see here but hopefully there will be someday. 
-I'm currently an engineering student, based in France.
+I'm currently an Egineering Sciences student, based in France.
 I know basic programming and have yet to show my worth through the making of projects.
-Have a good one!
+I am honing my skills and I'm working on the full stack. Chances are that you're going to see some pretty neat stuff in the near future!
 
-Here's my email if you need something from me (which isn't very likely at this point):
-contact@matmk.cc
+Feel free to email me at contact@matmk.cc if you need anything or any more information.
 
 <!---
 wwtox/wwtox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
